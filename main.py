@@ -91,7 +91,7 @@ def create_app():
         db.create_all()
 
 
-create_app()
+# create_app()
 
 
 @login_manager.user_loader
